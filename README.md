@@ -2,7 +2,7 @@
 
 link: https://portofolio-radu-bordea.netlify.app/
 
-Name: Bordea Radu-Nicolae
+Author: Bordea Radu-Nicolae
 
 Technologies: 
 HTML, CSS, Javascript, jQuery
