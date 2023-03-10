@@ -1,7 +1,7 @@
 # Portofolio-Radu.B
 
-This is my Portofolio Website: 
 link: https://portofolio-radu-bordea.netlify.app/
+
 Name: Bordea Radu-Nicolae
 
 Technologies: 
